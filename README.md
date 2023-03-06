@@ -69,8 +69,6 @@ Once your complete with the above tasks, your page should look something like th
 
 ![Completed lab image.](./assets/basic-example-completed.png)
 
-Once you've completed these tasks, continue to style your page. Consider adding specific styles to all list items, only list items under the "Libraries" heading, the introductory paragraph, and the "Hardest Bug So Far" section.
-
 ## Bonus Ideas
 
 Better alignment of inline elements. There are a few ways to approach this. [Display Flex, and related properties, are recommended](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
